@@ -11,3 +11,8 @@ li {
 ul {
     list-style-type: disc;
 }
+#google-logo {
+   position: fixed;
+   top: 50%;
+   left: 50%;
+}
