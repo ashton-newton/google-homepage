@@ -1,11 +1,6 @@
-#nav-bar-left {
-    left: 0;
-    top: 0;
+.left {
+    float: left;
 }
-#nav-bar-right {
-    right: 0;
-    top: 0;
-}
-#google-logo {
-    position: center;
+.right {
+    float: right;
 }
