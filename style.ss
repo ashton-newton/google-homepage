@@ -1,4 +1,0 @@
-#nav-bar {
-    position: fixed;
-    top: 0;
-}
