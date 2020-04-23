@@ -1,4 +1,8 @@
-#nav-bar {
-    position: fixed;
+#nav-bar-left {
+    left: 0;
+    top: 0;
+}
+#nav-bar-right {
+    right: 0;
     top: 0;
 }
